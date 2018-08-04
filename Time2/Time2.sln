@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time2", "Time2\Time2.csproj", "{580C2CB6-F34C-49E8-A606-CCEE958BCE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time2Test", "Time2Test\Time2Test.csproj", "{C003A57C-6E20-415F-B436-A83079FE64A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{580C2CB6-F34C-49E8-A606-CCEE958BCE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{580C2CB6-F34C-49E8-A606-CCEE958BCE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{580C2CB6-F34C-49E8-A606-CCEE958BCE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C003A57C-6E20-415F-B436-A83079FE64A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C003A57C-6E20-415F-B436-A83079FE64A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C003A57C-6E20-415F-B436-A83079FE64A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C003A57C-6E20-415F-B436-A83079FE64A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56CAFE18-4A7B-4817-9C34-E6F0C5BC4A81}
 	EndGlobalSection
 EndGlobal
